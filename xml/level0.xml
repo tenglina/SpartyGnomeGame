@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level width="1024" height="1024" start-y="572" start-x="468">
+    <declarations>
+        <background id="i001" image="backgroundForest.png"/>
+        <door id="i011" image="door.png"/>
+        <platform id="i005" left-image="platformIndustrial_059.png" mid-image="platformIndustrial_060.png" right-image="platformIndustrial_061.png"/>
+    </declarations>
+    <items>
+        <background id="i001" x="512" y="512"/>
+        <platform id="i005" x="400" y="976" width="32" height="32"/>
+        <platform id="i005" x="416" y="912" width="64" height="32"/>
+        <platform id="i005" x="432" y="848" width="96" height="32"/>
+        <platform id="i005" x="448" y="784" width="128" height="32"/>
+        <platform id="i005" x="464" y="720" width="160" height="32"/>
+        <door id="i011" x="468" y="232"/>
+    </items>
+</level>
